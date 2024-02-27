@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Information Systems Engineering Student. I have knowledge and experience in <br>Mobile development, Web Front-end, Database creation and management.<br>Linkedin:https://www.linkedin.com/in/muhammet-çakır-35ba29222/<br><br>
+I am an Information Systems Engineering Student. I have knowledge and experience in <br>Mobile app design and development, web design and programming, as well as creating and managing databases. Additionally, I am skilled in web mining<br>Linkedin:https://www.linkedin.com/in/muhammet-çakır-35ba29222/<br><br>
 
 
 ## 🌐 Socials:
